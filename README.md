@@ -17,9 +17,9 @@ Once your customer is ready to pay, use Stripe.js to redirect them to the URL of
 
 For more features see the [Checkout documentation](https://stripe.com/docs/payments/checkout).
 
-There are two integrations: [client-only](./client-only) and [client-and-server](./client-and-server). This CodeSandbox only shows the client-and-server integration, to see the client-only code go to the GitHub repository:
+There are two integrations: [client-only](./client-only) and [client-and-server](./client-and-server).
 
-https://github.com/stripe-samples/checkout-one-time-payments
+Original: https://github.com/stripe-samples/checkout-one-time-payments
 
 <!-- prettier-ignore -->
 |     | client-only | client-and-server
